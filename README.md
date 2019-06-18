@@ -1,0 +1,2 @@
+# SimpleTest.js
+generateContentFromSimpleObject foo
