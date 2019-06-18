@@ -1,9 +1,9 @@
 function generateContentFromSimpleObject(irr) {
 
   let tmpObj = JSON.stringify(irr);
-  tmpObj = "test1234. \n" + tmpObj;
+  tmpObj = "test1717. \n" + tmpObj;
 
-  console.log(tmpObj);
+  console.log("some xtra text: ", tmpObj);
 
   return tmpObj;
 }
